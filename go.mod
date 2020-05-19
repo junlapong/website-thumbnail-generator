@@ -1,3 +1,3 @@
-module github.com/Dirk94/website-thumbnail-generator
+module github.com/junlapong/website-thumbnail-generator
 
-go 1.13
+go 1.14
